@@ -1,4 +1,4 @@
-# RecruitAI Pro — React Frontend Deployment Guide
+# RecruitAI — React Frontend Deployment Guide
 
 ## Project Structure
 
