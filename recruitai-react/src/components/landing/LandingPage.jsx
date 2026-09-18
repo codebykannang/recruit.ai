@@ -871,7 +871,7 @@ export default function LandingPage() {
           <div className="lp-brand-ic" style={{ width: 34, height: 34, fontSize: 16, borderRadius: 8 }}>🧠</div>
           Recruit AI
         </div>
-        <p className="lp-footer-copy">© 2026 Recruit AI. Built with ♥ by Prozenix.</p>
+        <p className="lp-footer-copy">© 2026 Recruit AI. Built with ♥ by Kannan G.</p>
         <div style={{ display: 'flex', gap: 24, fontSize: 13.5, color: '#64748b' }}>
           <span style={{ cursor: 'pointer', transition: 'color 0.2s' }} className="lp-nav-link">Privacy</span>
           <span style={{ cursor: 'pointer', transition: 'color 0.2s' }} className="lp-nav-link">Terms</span>
